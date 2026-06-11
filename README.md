@@ -19,6 +19,9 @@ This project detects fraudulent credit card transactions using Ensemble Learning
 
 ## Output Screenshots
 
+### Terminal Output
+![Terminal Output](Terminal_output.png)
+
 ### Accuracy Graph
 ![Accuracy Graph](Accuracy%20Graph.png)
 
