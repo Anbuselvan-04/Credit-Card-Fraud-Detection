@@ -38,5 +38,4 @@ Credit Card Fraud Detection Dataset:
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ## Author
-Anbuselvan# Credit-Card-Fraud-Detection
-Credit Card Fraud Detection using Voting Classifier (Ensemble Learning)
+Anbuselvan
